@@ -1,0 +1,22 @@
+# Model artefacts (large binary files — regenerate from training script)
+*.joblib
+*.pkl
+*.pcap
+
+# Scored flow data (contains network data)
+scored_flows.csv
+mixed_flows_shuffled.csv
+attack_flows*.csv
+benign_flows.csv
+
+# Splunk credentials
+*.conf.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# System
+.DS_Store
+*.log

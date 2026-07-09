@@ -1,0 +1,16 @@
+{
+  "features": [
+    " Fwd Header Length.1",
+    " Fwd Header Length",
+    " Flow Duration",
+    "Fwd IAT Total",
+    "Bwd IAT Total",
+    "Flow Bytes/s",
+    " Fwd IAT Max",
+    " Flow IAT Max",
+    " Idle Max",
+    "Idle Mean"
+  ],
+  "threshold": 0.5,
+  "model_type": "LogisticRegression"
+}
