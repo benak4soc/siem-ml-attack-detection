@@ -76,8 +76,8 @@ sudo bash run_all.sh
 
 ## Author
 
-Benak Patel Medugondanahalli Puradaswamy,
-Murat Can Yorgancioglu
+## 1. Benak Patel Medugondanahalli Puradaswamy
+## 2. Murat Can Yorgancioglu
 
 ## Methods of Artificial Intelligence — Academic Year 2025-2026,
 
