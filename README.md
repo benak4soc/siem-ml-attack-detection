@@ -77,6 +77,7 @@ sudo bash run_all.sh
 ## Author
 
 Benak Patel Medugondanahalli Puradaswamy
+Murat Can Yorgancioglu
 Methods of Artificial Intelligence — Academic Year 2025-2026
 Supervisors: Prof. Jianmin Chen, Prof. Ioannis Krontiris
 
